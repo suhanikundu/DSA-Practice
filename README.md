@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/suhanikundu/DSA-Practice/tree/master/0007-reverse-integer) |
+| [1013-fibonacci-number](https://github.com/suhanikundu/DSA-Practice/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -19,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/suhanikundu/DSA-Practice/tree/master/0125-valid-palindrome) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suhanikundu/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suhanikundu/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/suhanikundu/DSA-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
