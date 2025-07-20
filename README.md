@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suhanikundu/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/suhanikundu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suhanikundu/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/suhanikundu/DSA-Practice/tree/master/1013-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/suhanikundu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/suhanikundu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
