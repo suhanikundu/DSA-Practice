@@ -1,7 +1,6 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
-This repository contains my journey through Data Structures and Algorithms- solving problems from platforms like LeetCode, improving logic, and building strong problem-solving skills one challenge at a time.
 ## Math
 |  |
 | ------- |
@@ -15,6 +14,7 @@ This repository contains my journey through Data Structures and Algorithms- solv
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suhanikundu/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/suhanikundu/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/suhanikundu/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/suhanikundu/DSA-Practice/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/suhanikundu/DSA-Practice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -22,6 +22,7 @@ This repository contains my journey through Data Structures and Algorithms- solv
 | [0026-remove-duplicates-from-sorted-array](https://github.com/suhanikundu/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/suhanikundu/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/suhanikundu/DSA-Practice/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/suhanikundu/DSA-Practice/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
