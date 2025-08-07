@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/suhanikundu/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/suhanikundu/DSA-Practice/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/suhanikundu/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/suhanikundu/DSA-Practice/tree/master/2050-count-good-numbers) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/suhanikundu/DSA-Practice/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/suhanikundu/DSA-Practice/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/suhanikundu/DSA-Practice/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
