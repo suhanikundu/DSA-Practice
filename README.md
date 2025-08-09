@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/suhanikundu/DSA-Practice/tree/master/2050-count-good-numbers) |
 | [sort_stack](https://github.com/suhanikundu/DSA-Practice/tree/main/sort_stack) |
 | [reverse_stack](https://github.com/suhanikundu/DSA-Practice/tree/main/arrays/reverse_stack) |
+| [consecutive_1s](https://github.com/suhanikundu/DSA-Practice/tree/main/consecutive_1s) |
 ## Memoization
 |  |
 | ------- |
